@@ -1,0 +1,29 @@
+name: Bug Report
+description: システムの不具合を報告します
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 不具合の概要
+      description: どのような問題が発生したか記載してください
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 再現手順
+      description: どのように操作した時に発生したか記載してください
+  - type: textarea
+    id: expected
+    attributes:
+      label: 本来の挙動
+      description: 本来どうなるべきだったか記載してください
+  - type: dropdown
+    id: environment
+    attributes:
+      label: 発生環境
+      options:
+        - Webアプリ（管理者）
+        - Webアプリ（講師）
+        - Chrome拡張機能
