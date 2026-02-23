@@ -21,7 +21,7 @@
 
 画面遷移後ホーム画面が表示されます。
 
-![AdminHome](.img/Admin_home.png)
+![AdminHome](./img/Admin_home.png)
 
 それぞれの機能概は次の通りです。
 
