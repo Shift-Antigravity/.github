@@ -91,3 +91,7 @@ ShiftAntigravityは、塾のシフト集計を効率化し、既存の管理シ�
 - [chrome用拡張機能](https://github.com/Shift-Antigravity/shift-management-extension)
 - [ウェブアプリケーション](https://github.com/Shift-Antigravity/Shift-management-web)
 - [開発用ライブラリ](https://github.com/Shift-Antigravity/develop-library)
+
+## CONTACT
+
+- [My Discord Server](https://discord.gg/v9ybtUdQhA)
