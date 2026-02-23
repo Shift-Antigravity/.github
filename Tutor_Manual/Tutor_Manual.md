@@ -24,7 +24,7 @@
 
 ### 2-1. ログイン
 
-![login2](.img/login2_screen.png)
+![login2](./img/login2_screen.png)
 
 [1-1. アカウント作成](### 1-1. アカウント作成)で登録した情報**苗字、名前、4桁の数字**を入力してログインしてください。
 
@@ -32,7 +32,7 @@
 
 ログイン後シフト提出が行える状態なら次のようなカレンダーの画面になります。
 
-![calendar](.img/calendar_screen.png)
+![calendar](./img/calendar_screen.png)
 
 画面上部の機能は左から次の通りです。
 
@@ -42,7 +42,7 @@
 
 このとき室長から個別に連絡がある場合、次のような表示にもなります。
 
-![contact](.img/contact_screen.png)
+![contact](./img/contact_screen.png)
 
 `X`を押下して閉じることができ、再度確認したい場合は**ベル**のボタンを押下して開くことが出来ます。
 元から入力済みの日時はレギュラーコマで登録した内容となります。
@@ -51,18 +51,17 @@
 
 該当する日にちをクリックすると**時間,連絡**を入力できます。出勤出来る時間を選択や、連絡事項等を記入して`設定完了`を押下してください。
 
-![select time](.img/selectTime_screen.png)
+![select time](./img/selectTime_screen.png)
 
 最後に`講師から室長への連絡事項`があれば記載をして`変更があれば保存して提出`を押下すれば完了です。
 
 ## 3. レギュラーコマ変更
 
-![calendar](.img/calendar_screen.png)
+![calendar](./img/calendar_screen.png)
 
 画面上部アイコン3つの中央`カレンダ-`アイコンを押下するとレギュラーコマの変更が行えます。
 
-
-![request](.img/request_screen.png)
+![request](./img/request_screen.png)
 
 `変更理由`を記入して`変更を依頼する`ボタンを押下して完了です。
 
@@ -76,11 +75,11 @@
 
 シフト提出の期限が無い場合次のような画面が表示されます。
 
-![delayhome](.img/delayhome_screen.png)
+![delayhome](./img/delayhome_screen.png)
 
 `遅れて提出・修正する場合はこちら`を押下すると直近のシフト表が確認できます。
 
-![delaycalendar](.img/delaycalendar_screen.png)
+![delaycalendar](./img/delaycalendar_screen.png)
 
 先ほどと同様の手順で提出が可能です。
 
