@@ -1,5 +1,7 @@
 # ShiftAntigravity ドキュメント
 
+![icon](./img/icon.png)
+
 このディレクトリには、シフト管理システム「ShiftAntigravity」の各種マニュアルが格納されています。
 
 ## マニュアル一覧
