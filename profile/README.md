@@ -1,7 +1,8 @@
 # ShiftAntigravity ドキュメント
 
-{: align="center"}
-![icon](./img/icon.png)
+<p align="center">
+  <img src="https://github.com/Shift-Antigravity/.github/blob/main/profile/img/icon.png" />
+</p>
 
 このディレクトリには、シフト管理システム「ShiftAntigravity」の各種マニュアルが格納されています。
 
