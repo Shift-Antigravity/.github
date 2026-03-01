@@ -68,7 +68,7 @@
 
 #### 3-5-1. 集計
 
-ログイン用のURL `https://hogehoge/login`を共有すれば新規登録・集計出来ます。
+ログイン用のURL `https://shiftantigravity.web.app/login`を共有すれば新規登録・集計出来ます。
 
 ## 4. 集計
 
