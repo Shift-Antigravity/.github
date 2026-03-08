@@ -1,5 +1,9 @@
 # 講師用マニュアル
 
+## 使い方動画
+
+[![動画タイトル](https://img.youtube.com/vi/XeAboOmKZ7Y/0.jpg)](https://www.youtube.com/watch?v=XeAboOmKZ7Y)
+
 ## 1. アカウント登録
 
 ### 1-1. アカウント作製
