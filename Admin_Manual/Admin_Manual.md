@@ -79,13 +79,16 @@
 
 `シフトを発行して公開`を押下して完了です。
 
-### 3-5. 集計方法や登録方法
-
-#### 3-5-1. 集計
+### 3-5. 共有
 
 ログイン用のURL `https://shiftantigravity.web.app/login`を共有すれば新規登録・集計出来ます。新人講師を追加するときは例えば[URLをQRコードに変換するwebサイト](https://qr.quel.jp/url.php)などを用いてURLを変換・印刷を行い、面接時などに共有するという運用を想定しています。
 
-- `https://qr.quel.jp/url.php` (URLをQRコードに変換するwebサイト例)
+> `3-4. 発行`までの手順を行っても講師側には通知が行きません。そのためLINEなどを用いて上記URLを共有してください。
+
+URLをQRコードに変換するwebサイト例
+
+- `https://qr.quel.jp/url.php`
+- `https://www.cman.jp/QRcode/qr_url/`
 
 ## 4. 集計
 
