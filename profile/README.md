@@ -14,6 +14,7 @@
 | :--- | :--- | :--- |
 | **室長・管理者** | [室長用マニュアル](https://github.com/Shift-Antigravity/.github/blob/main/Admin_Manual/Admin_Manual.md) | シフトの発行、集計、塾マネへの反映方法など |
 | **講師** | [講師用マニュアル](https://github.com/Shift-Antigravity/.github/blob/main/Tutor_Manual/Tutor_Manual.md) | アカウント作成、シフトの提出方法など |
+| **開発者** | [開発者wiki](https://github.com/Shift-Antigravity/Shift-Antigravity-Wiki) | DB構造やAPIについて |
 
 ## システム概要
 
